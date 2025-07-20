@@ -17,4 +17,4 @@ Pages: If there are many users, it shows them in pages (like page 1, page 2, etc
 
 Looks Good: It uses Bootstrap, which makes the website look clean and organized.
 
-Behind the Scenes: It uses Axios to talk to a "server" (another computer program) to save, get, and change user information.
+Behind the Scenes: It uses Axios to talk to a "server" (another computer program) to save, get, and change user information

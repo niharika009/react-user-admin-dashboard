@@ -1,7 +1,7 @@
 # react-user-admin-dashboard
 This project is a simple website that helps an administrator manage users. It's built using React, which is a popular way to create interactive websites.
 
-Here's what it does in easy words:
+Here's what it does in easy w
 
 User List: It shows a list of all users in a table.
 

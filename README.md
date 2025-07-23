@@ -3,7 +3,7 @@ This project is a simple website that helps an administrator manage users. It's 
 
 
 
-User List: It shows a list of all users in a table.
+User List: It shows a list of all users in a table that have registered.
 
 Add Users: The admin can click a button to add new users by filling out a form.
 

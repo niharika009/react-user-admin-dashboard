@@ -13,7 +13,7 @@ Delete Users: The admin can click a "Delete" button to remove a user from the li
 
 Search: The admin can easily find users by typing in their name or email in a search box.
 
-Pages: If there are many users, it shows them in pages (like page 1, etc.).
+Pages: If there are many users, it shows them in pages (like page 1, page 2, page 3 etc.).
 
 Looks Good: It uses Bootstrap, which makes the website look clean and organized.
 
